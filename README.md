@@ -4,7 +4,7 @@
 
 [![Motuma Gishu Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@motumagishu27)
 
-<h1 style="color:#04D4F0;">I'm a Smart Contract/Blockchain Software Engineer and Full Stack Web Developer</h1>.
+<h4 style="color:green;">I'm a Smart Contract/Blockchain Software Engineer and Full Stack Web Developer</h4>.
 
 #### Github Stats 📊
 [![Motuma's github stats](https://github-readme-stats.vercel.app/api?username=motumag)](https://github.com/anuraghazra/github-readme-stats)
